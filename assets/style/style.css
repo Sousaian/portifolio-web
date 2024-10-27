@@ -441,7 +441,7 @@ footer p{
     font-size: .75rem;
 }
 
-@media (min-width: 768px){ 
+@media (max-width: 768px){ 
     .menu--mobile{
         display: none;
     }
