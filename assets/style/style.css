@@ -469,6 +469,7 @@ footer p{
     }
 
      .main_content1{
+        width: 60%;
         display: flex;
         flex-direction: column;
         align-items: flex-start;
@@ -478,7 +479,10 @@ footer p{
      .main_content1 p{
         font-size: 1.25rem;
      }
-
+     .habilidades_list {
+        flex-direction: row;
+        justify-content: space-between;
+    }
      .habilidades{
         padding: 6.25rem 6rem 2rem 6rem;
         margin-top: -6rem;
