@@ -532,6 +532,26 @@ footer p{
         border-radius: 0.5rem;
         background-color: var(--primary-bg-color);  
     }
+
+    /* projetos */
+
+    .projetos_container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+    }
+    
+    .card_title{
+        font-size: 2rem;
+        padding: 1rem 0;
+    }
+
+    .projetos_img{
+        width: 800px;
+        height: 100%;
+    }
 }
 
 @media (min-width: 1400px) {
