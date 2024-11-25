@@ -601,6 +601,7 @@ footer p{
 
     .projetos_container ul{
         font-size: 1.125rem;
+        text-align: left;
     }
 
     .buttons {
