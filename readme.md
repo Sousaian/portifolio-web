@@ -5,7 +5,7 @@ Bem-vindo ao meu repositório de **Portfólio Web**! 🚀 Este projeto é a vitr
 ---
 
 ## 🎨 Demonstração  
-Você pode conferir o portfólio online clicando [aqui](https://sousaian.github.io/portifolio-web/) 
+Você pode conferir o portfólio online clicando [aqui](/) 
 
 ---
 
@@ -18,4 +18,3 @@ Este projeto foi desenvolvido com as seguintes ferramentas:
 - **JavaScript:** Interatividade e dinamismo na interface.  
 
 ---
-
